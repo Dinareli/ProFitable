@@ -1,0 +1,27 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding-top: -20px;
+    padding-bottom: -60px;
+}
+
+.cabecalho #logo {
+    border: none;
+    width: 5vw;
+    height: 5vw;
+    padding-bottom: 4vw;
+    align-items:center;
+}
+
+.cabecalho .profitable {
+    border: none;
+    padding-right: 35vw;
+    padding-left: 35vw;
+    padding-bottom: 30px;
+    justify-content:center;
+    margin-left: 25px;
+    color: black;
+}
+
+
