@@ -1,0 +1,194 @@
+.pagina-principal {
+    background-color: #6280E9;
+}
+
+.navbar {
+    background-color: #FFF;
+    margin:20px;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+#imgPerfil{ 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.navbar h2 {
+    margin-left: 40px;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+#ImgSaldo {
+    margin-left: 700px;
+}
+
+#ImgDuvida,
+#ImgPix {
+    margin-left: 50px;
+}
+
+.atalhos {
+    background-color: #FFF;
+    margin-top: 10px;
+    margin-right: 700px;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+
+.atalhos h2 {
+    margin-left: 40px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    font-style: normal;
+    font-weight:bold;
+}
+
+.btAtalhos  {
+    width: 150px;
+	display: inline;
+}
+
+#ImgPagar, 
+#ImgTransferir,
+#ImgDepositar,
+#ImgInvestir,
+#ImgCartoes {
+    display: inline;
+}
+
+#ImgPagar {
+    margin-left: 2.5rem;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#ImgTransferir {
+    margin-left: 2rem;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#ImgDepositar {
+    margin-left: 2rem;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#ImgInvestir {
+    margin-left: 2rem;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+#ImgCartoes {
+    margin-left: 2rem;
+    margin-top: 30px;
+    border: 2px solid black;
+    border-radius: 50px;
+    padding: 5px;
+}
+
+.fatura {
+    background-color: #FFF;
+    margin-top: 10px;
+    margin-right: 700px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.CartaoCredito {
+    align-items: center;
+    margin-inline: 50px;
+}
+
+.CartaoCredito h2 {
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.CartaoCredito h4 {
+    margin-left: 55px;
+    color: #adb5bd;
+}
+
+.CartaoCredito .valor {
+    margin-left: 50px;
+}
+
+.CartaoCredito button {
+    margin-left: 45px;
+    text-align: center;
+    border: none;
+    height: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #6280E9;
+    font-weight: bold;
+}
+
+.Limite {
+   margin-left: 350px;
+   align-items: center;
+   margin-top: -197px;
+}
+
+.Limite h2 {
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+.Limite .valor {
+    padding-top: 55px;
+    margin-left: 50px;
+}
+
+.Limite button {
+    margin-left: 50px;
+    text-align: center;
+    border: none;
+    height: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #6280E9;
+    font-weight: bold;
+    margin-top: -5px;
+}
+
+.Extrato {
+    background-color: #FFF;
+    margin-top: -418px;
+    margin-left: 665px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding-bottom: 240px;
+}
+
+.Extrato h2 {
+    margin-left: 280px;
+    padding-top: 20px;
+}
+
+table {
+    margin-left: 180px;
+    margin-bottom: 30px;
+    border: none;
+    font-weight: bold;
+    padding-right: 30px;
+}
