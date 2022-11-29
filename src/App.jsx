@@ -5,11 +5,12 @@ import CabecalhoSemBt from './componentes/CabecalhoSemBt';
 import Login from './paginas/Login';
 import PaginaPrincipal from './paginas/PaginaPrincipal';
 import Conta from "./paginas/Conta";
+import Home from './paginas/Home';
 
 function App() {
   return (
-    <div className="Conta">
-      <Conta/>
+    <div className="Home">
+      <Home/>
     </div>
   );
 }

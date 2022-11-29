@@ -1,0 +1,43 @@
+.infos {
+    background-color: #6280E9;  
+    background-size: auto; 
+}
+
+.infos h2 {
+    width: 15rem;
+    padding-top: 40px;
+    color: #FFF;
+    margin-left: 50px;
+}
+
+img {
+    margin-left: 50px;
+}
+
+.Caixa-cadastro {
+    background-color: #FFF;
+    width: 400px;
+    height: 300px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -450px;
+}
+
+button {
+    text-align: center;
+    border: none;
+    height: 30px;
+    border-radius: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: #FFF;
+    background-color: #6280E9;
+    font-weight: bold;
+    padding-right: 30px;
+    padding-left: 30px;
+}
